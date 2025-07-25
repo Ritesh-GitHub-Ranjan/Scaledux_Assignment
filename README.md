@@ -15,6 +15,7 @@ The goal is to evaluate different ML models and build an effective scoring syste
 .
 ├── Ritesh_Ranjan_ScaleDux_AI_Intern_Task1.ipynb
 ├── Startup_Scoring_Dataset.csv
+├── Output/Graphs
 ├── README.md   ← You're here!
 ```
 
